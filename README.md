@@ -1,0 +1,2 @@
+# Random-Game
+ Esse bot é responsável por sortear jogos de forma aleatória a partir de uma lista de jogos informados pelo usuário. O bot fica monitorando o canal específico e quando o comando !jogos é enviado, ele recebe uma lista de jogos separada por vírgulas e aleatoriamente seleciona um dos jogos para enviar uma mensagem informando qual foi o jogo selecionado. O bot também exclui automaticamente as mensagens
