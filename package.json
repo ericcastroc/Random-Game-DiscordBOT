@@ -4,7 +4,9 @@
   "description": "Um bot para randomizar jogos é uma ferramenta automatizada que pode ser utilizada por jogadores para escolher aleatoriamente quais jogos jogar em um determinado momento. ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+    
   },
   "author": "Eric Henrique de Castro Chaves",
   "license": "ISC",
